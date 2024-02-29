@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sns8aqua Sathya Narayan
 - 👀 I’m interested in DevOps and Quality Assurance
-- 🌱 I’m currently learning GoLand and Python
+- 🌱 I’m currently exploring slack-bolt-python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
