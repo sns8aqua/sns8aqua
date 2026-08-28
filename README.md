@@ -4,6 +4,11 @@
 
 ---
 
+## Open Source
+
+- Contributor to [Secchi](https://github.com/sns8aqua/secchi)
+
+---
 
 <p align="center">
   <img src="./assets/terminal.gif" width="100%"/>
