@@ -6,7 +6,7 @@
 
 ## Open Source
 
-- Contributor to [Secchi](https://github.com/sns8aqua/secchi)
+- Contributor to [Secchi](https://github.com/kannandreams/secchi)
 
 ---
 
@@ -36,7 +36,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin-handle]/">
+  <a href="https://www.linkedin.com/in/sathyalinkeddinn/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
