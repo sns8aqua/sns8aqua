@@ -10,6 +10,12 @@
 
 ---
 
+## Side Quests
+
+- 📱 **Building:** [Split Up Expenses](https://github.com/sns8aqua/split_up_expenses) — Flutter + mobile development + keeping expenses less chaotic
+- ⚡ **Benchmarking:** [pytest Performance Lab](https://github.com/sns8aqua/pytest-parallel-performance-tests) — pytest, parallelism, profiling, and framework experiments
+---
+
 <p align="center">
   <img src="./assets/terminal.gif" width="100%"/>
 </p>
