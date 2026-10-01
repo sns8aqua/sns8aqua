@@ -1,6 +1,6 @@
 ## About Me
 
-🧪 exploring **Agentic AI** &nbsp;·&nbsp; 🔧 GCP and on-prem ☁️ extensive mobile CI/CD experience &nbsp;·&nbsp; 🤖 automate on the third repeat &nbsp;·&nbsp;  🤝
+🧪 exploring **Agentic AI** &nbsp;·&nbsp; 🔧 GCP and on-prem ☁️ extensive mobile CI/CD experience &nbsp;·&nbsp; 🤖 automate &nbsp;·&nbsp;  🤝
 
 ---
 
